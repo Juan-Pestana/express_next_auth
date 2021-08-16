@@ -1,0 +1,9 @@
+/express_next_auth_bk/node_modules
+/express_next_auth_fr/node_modules
+
+/express_next_auth_fr/.env
+
+/express_next_auth_bk/.env
+
+
+/express_next_auth_fr/.next
